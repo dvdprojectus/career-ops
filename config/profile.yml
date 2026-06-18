@@ -1,0 +1,82 @@
+# Career-Ops — Daniel Vargas Díaz
+# Primary use: adapt CV to job descriptions (English). See modes/_profile.md for role focus.
+
+candidate:
+  full_name: "Daniel Vargas Díaz"
+  email: "dan.vargasdiaz@gmail.com"
+  phone: "+506 86753981"
+  location: "San José, Costa Rica"
+  linkedin: "https://www.linkedin.com/in/daniel-vargas-d/"
+  portfolio_url: "https://portfolio-two-black-s7bro55mlr.vercel.app/"
+  # Also: https://www.danielvargasdiaz.net/ (Scholar "homepage")
+  github: "" # none
+  google_scholar: "https://scholar.google.com/citations?user=YhmlanYAAAAJ&hl=en"
+
+target_roles:
+  primary:
+    - "AI Engineer (agents, pipelines, LLMs, applied ML)"
+    - "Software Engineer (full stack, backend, frontend)"
+    - "HCI / UX (research, research engineer, UX–ML)"
+  archetypes:
+    - name: "AI Engineer — agent design, LLM pipelines, applied AI"
+      level: "Senior"
+      fit: "primary"
+    - name: "Software Engineer — full stack, React/Node/Python"
+      level: "Mid-Senior"
+      fit: "primary"
+    - name: "HCI / UX — voice agents, learning tech, user research"
+      level: "Senior"
+      fit: "primary"
+    - name: "Consultant / Freelancer — AI, agents, full stack"
+      level: "Senior"
+      fit: "secondary"
+
+narrative:
+  headline: "AI engineer and HCI researcher — agent design, LLM pipelines, and full-stack shipping"
+  exit_story: >
+    Costa Rica–based contractor; actively seeking full-time employment or digital-nomad
+    freelance/consulting to relocate to Spain. Open to remote roles from anywhere worldwide,
+    with preference for EU-based companies (especially Spain, Germany, Netherlands for
+    competitive salaries). Currently working as a contractor but looking for new opportunities.
+    Three lanes: AI engineering (agents & pipelines), software engineering, and HCI/UX.
+  superpowers:
+    - "Generalist hacker — unblock issues fast, prototype quickly, ship working systems"
+    - "Agent & pipeline design — multi-agent LLM systems, RAG, hallucination QA, scraping pipelines at ProjectUs.ai"
+    - "Education & children — classroom/makerspace experience; graduate work on AI for children and learning technologies"
+    - "Hardware & prototyping — build and iterate physical/digital prototypes (Arduino, fabrication, circuits)"
+    - "Full stack + research — bridges HCI/UX, implementation, data science, and peer-reviewed research"
+  proof_points:
+    - name: "Portfolio"
+      url: "https://portfolio-two-black-s7bro55mlr.vercel.app/"
+      hero_metric: "Head of Learning & AI at ProjectUs.ai; VT M.S. CS & HCI"
+    - name: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=YhmlanYAAAAJ&hl=en"
+      hero_metric: "CHI, IJHCS, VL/HCC, UIST line — AI in education & voice for joint reading"
+
+compensation:
+  target_range: "" # add when negotiating
+  currency: "EUR"
+  minimum: ""
+  notes: "Germany/Netherlands typically higher salaries than Spain — factor into negotiations"
+  location_flexibility: >
+    Relocate to Spain (top priority, full-time or digital nomad).
+    Remote worldwide OK. EU remote preferred (Germany, Netherlands = salary priority).
+    Open to consulting and freelancing. Currently contracting — looking for new opportunities.
+
+location:
+  country: "Costa Rica"
+  city: "San José"
+  timezone: "America/Costa_Rica"
+  citizenship: "Costa Rica"
+  work_arrangement_preference:
+    - "Remote worldwide"
+    - "Remote EU (Spain, Germany, Netherlands preferred)"
+    - "On-site Spain (with relocation)"
+    - "Freelance / consulting / contract"
+  visa_status: >
+    Costa Rican citizen only. For employment outside CR (e.g. Spain/EU), employer-supported
+    work authorization may be required; clarify per offer. Digital nomad visa for Spain is
+    an option for freelance/consulting. Freelance/contracting subject to local and client jurisdiction.
+
+cv:
+  output_format: "html"
